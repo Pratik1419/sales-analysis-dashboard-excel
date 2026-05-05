@@ -7,10 +7,10 @@ insights across 4 years and 6 countries.
 
 ## Dashboard Views
 ### 1. Sales (Time Analysis) Dashboard
-![Sales Dashboard](screenshot1.png)
+![Sales Dashboard](Sales_Analysis_Dashboard.png)
 
 ### 2. Detail Dashboard
-![Detail Dashboard](Detail Dashboard.png)
+![Detail Dashboard](Detail_Dashboard.png)
 
 ## Key Insights Uncovered
 - Total Revenue: $69.48M | Total Profit: $28.18M | Profit Margin: 40.6%
