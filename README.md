@@ -1,5 +1,11 @@
 # Sales Analysis Dashboard — Excel
 
+
+## Dataset
+- 4 years of transactional data (2005–2008)
+- 6 countries: Australia, Canada, France, Germany, UK, United States
+- 226 customers | 606 products | 2,680 transactions
+
 ## Project Overview
 A fully interactive, multi-page Sales Analysis Dashboard built in Microsoft 
 Excel, featuring dynamic filters, cross-dashboard navigation, and business 
@@ -30,3 +36,4 @@ insights across 4 years and 6 countries.
 
 ## Tools Used
 - Microsoft Excel (Pivot Tables, Slicers, Charts, Conditional Formatting)
+
